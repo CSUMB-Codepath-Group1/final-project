@@ -1,6 +1,3 @@
-Group Project - README Template
-===
-
 # BARK - Social Media App
 
 ## Table of Contents
